@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "TATTOO",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-04T14:32:26.103559Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Swallow Tattoo",
+      "artist": "The Long Blondes",
+      "has_synced": true,
+      "path": "select/01_Swallow_Tattoo_The_Long_Blondes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cobra Tattoo",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/02_Cobra_Tattoo_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tattoo (Giving It All Up for Love)",
+      "artist": "Huey Lewis and The News",
+      "has_synced": true,
+      "path": "select/03_Tattoo_(Giving_It_All_Up_for_Love)_Huey_Lewis_and_The_News.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dragon Tattoo",
+      "artist": "Fatima Al Qadiri",
+      "has_synced": false,
+      "path": "select/04_Dragon_Tattoo_Fatima_Al_Qadiri.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beat the Devil's Tattoo",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/05_Beat_the_Devil's_Tattoo_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beat The Devil's Tattoo",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/06_Beat_The_Devil's_Tattoo_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "In the Mood for a Tattoo",
+      "artist": "Molly Nilsson",
+      "has_synced": false,
+      "path": "select/07_In_the_Mood_for_a_Tattoo_Molly_Nilsson.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Like a Tattoo",
+      "artist": "Sade",
+      "has_synced": true,
+      "path": "select/08_Like_a_Tattoo_Sade.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brand New Name on an Old Tattoo",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/09_Brand_New_Name_on_an_Old_Tattoo_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Red Dragon Tattoo",
+      "artist": "Fountains of Wayne",
+      "has_synced": true,
+      "path": "select/10_Red_Dragon_Tattoo_Fountains_of_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tattoo",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/11_Tattoo_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "New Tattoo",
+      "artist": "Mötley Crüe",
+      "has_synced": true,
+      "path": "select/12_New_Tattoo_Mötley_Crüe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tattoo",
+      "artist": "Shefali Alvares",
+      "has_synced": true,
+      "path": "select/13_Tattoo_Shefali_Alvares.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Remedy (Rose Tattoo Cover)",
+      "artist": "Tankard",
+      "has_synced": false,
+      "path": "select/14_Remedy_(Rose_Tattoo_Cover)_Tankard.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tattoo Coward",
+      "artist": "TANKARD",
+      "has_synced": false,
+      "path": "select/15_Tattoo_Coward_TANKARD.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Rose Tattoo",
+      "artist": "David Byrne",
+      "has_synced": false,
+      "path": "select/16_The_Rose_Tattoo_David_Byrne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TATTOO",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_TATTOO_Official髭男dism.txt"
+    }
+  ]
+}
